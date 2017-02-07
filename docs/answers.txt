@@ -1,8 +1,9 @@
 a)
-b)
-c)
-d)
-e)
-f)
-g)
-h)
+b) 12, git shortlog
+c) Sep 15 10:29:34, git log .gitignore
+d) 4, git log src/
+e) git log shows each commit in the repository, while git status shows the differences in the current working branch
+   and the branch you are pushing to.
+f) git log --follow RoleGame.java
+g) git log --all --grep='file'
+h) git log --author='Alice' --after='2016-09-01' --before='2016-09-16'
